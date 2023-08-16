@@ -485,6 +485,7 @@ CONFIG_MTK_VOW_DUAL_MIC_SUPPORT=n
 CONFIG_MTK_VOW_AMAZON_SUPPORT=y
 CONFIG_MTK_VOW_GVA_SUPPORT=y
 CONFIG_HS_MIC_RECORD_NOISE_PD_CHG=y
+CONFIG_BLK_CGROUP=y
 
 #The user version requires removing the debug function and improving performance
 CONFIG_DEBUG_LIST=n
